@@ -1,4 +1,4 @@
-import { Header, Hero, Solutions, Features, Contact, Footer } from "./components/Landing";
+import { Header, Hero, Solutions, Contact, Footer } from "./components/Landing";
 
 export default function App() {
   return (
@@ -7,7 +7,6 @@ export default function App() {
       <main>
         <Hero />
         <Solutions />
-        <Features />
         <Contact />
       </main>
       <Footer />
