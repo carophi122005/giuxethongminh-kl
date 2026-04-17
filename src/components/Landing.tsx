@@ -244,6 +244,18 @@ export function Solutions() {
       <div className="container-custom">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-4xl md:text-5xl font-black text-slate-900 mb-6 uppercase">Giải Pháp <span className="text-brand-blue tracking-tight">Thông Minh 2024</span></h2>
+          <img 
+            src="https://raw.githubusercontent.com/carophi122005/giuxethongminh-kl/main/src/components/1000005929.jpg" 
+            alt="Máy giữ xe thông minh" 
+            className="w-full rounded-2xl shadow-xl mb-8 border border-slate-100"
+            referrerPolicy="no-referrer"
+          />
+          <img 
+            src="https://raw.githubusercontent.com/carophi122005/giuxethongminh-kl/main/src/components/1000005931.jpg" 
+            alt="Máy giữ xe thông minh" 
+            className="w-full rounded-2xl shadow-xl mb-8 border border-slate-100"
+            referrerPolicy="no-referrer"
+          />
           <p className="text-lg text-slate-600 mb-8 italic">"Cung cấp riêng lẻ phần mềm cũng như thiết bị khách cần nhằm tối ưu chi phí"</p>
           <div className="flex flex-wrap justify-center gap-4">
              <div className="bg-brand-blue/5 border border-brand-blue/10 px-4 py-2 rounded-lg text-sm font-bold text-brand-blue">
